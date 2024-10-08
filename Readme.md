@@ -1,6 +1,6 @@
 # Auto Reply Bot
 ## Installation
-    1. git clone 1. git clone https://github.com/DivyanshTiwari001/AutoReplyBot.git
+    1. git clone https://github.com/HimanshuSingh82/Auto-Reply-AI-Chatbot.git
     2. cd AutoReplyBot
     3. pip install requirements.txt
     4. python main.py
