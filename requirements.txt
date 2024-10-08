@@ -1,0 +1,7 @@
+google-generativeai==0.8.2
+keyboard==0.13.5
+openai==1.51.0
+PyAutoGUI==0.9.54
+pynput==1.7.7
+requests==2.32.3
+tk==0.1.0
