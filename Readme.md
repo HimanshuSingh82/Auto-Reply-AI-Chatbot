@@ -1,9 +1,12 @@
 # Auto Reply Bot
 ## Installation
-    1. git clone https://github.com/DivyanshTiwari001/AutoReplyBot.git
-    2. cd AutoReplyBot
-    3. pip install requirements.txt
-    4. python main.py
+    1. git clone https://github.com/HimanshuSingh82/Auto-Reply-AI-Chatbot.git
+    2. cd Auto-Reply-AI-Chatbot
+    3. python -m venv myvenv
+    4  For Windows : ./myvenv/Scripts/activate
+    5  For Linux : Source ./myvenv/bin/activate
+    6. pip install -r requirements.txt
+    7. python main.py
 
 ## How to Use:
     1. Enter the required details
